@@ -1,6 +1,7 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.clues
 
 import edu.csh.chase.osrs.cluescrolls.solver.models.Emotes
+import edu.csh.chase.osrs.cluescrolls.solver.models.Level
 import edu.csh.chase.osrs.cluescrolls.solver.models.Location
 import edu.csh.chase.osrs.cluescrolls.solver.models.loadout.Loadout
 

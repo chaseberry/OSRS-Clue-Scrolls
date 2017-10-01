@@ -1,5 +1,6 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.clues
 
+import edu.csh.chase.osrs.cluescrolls.solver.models.Level
 import edu.csh.chase.osrs.cluescrolls.solver.models.Location
 
 abstract class ClueScroll(val level: Level,
