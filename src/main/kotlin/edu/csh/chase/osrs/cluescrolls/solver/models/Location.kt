@@ -1,6 +1,6 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models
 
-class Location {
+class Location {//TODO single vs region
 }
 
 /*
