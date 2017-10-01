@@ -1,4 +1,6 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.items
 
-class Item {
+import edu.csh.chase.osrs.cluescrolls.solver.models.loadout.LoadoutSlot
+
+class Item(val slot: LoadoutSlot) {
 }

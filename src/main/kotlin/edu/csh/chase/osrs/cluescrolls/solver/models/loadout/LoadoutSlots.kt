@@ -1,6 +1,6 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.loadout
 
-enum class LoadoutSlot {
+enum class LoadoutSlots {
     head,
     neck,
     body,
