@@ -1,7 +1,9 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.requirements
 
 import edu.csh.chase.osrs.cluescrolls.solver.models.Houses
+import edu.csh.chase.osrs.cluescrolls.solver.models.Quest as OsrsQuest
 import edu.csh.chase.osrs.cluescrolls.solver.models.Skills
+
 
 sealed class Requirement {
 
@@ -9,5 +11,5 @@ sealed class Requirement {
 
     class Favor(val house: Houses, val amount: Int) : Requirement()
 
-
+    class Quest(val quest: OsrsQuest) : Requirement()
 }
