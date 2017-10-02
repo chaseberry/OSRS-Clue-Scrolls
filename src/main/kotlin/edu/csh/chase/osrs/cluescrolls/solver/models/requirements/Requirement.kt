@@ -9,4 +9,5 @@ sealed class Requirement {
 
     class Favor(val house: Houses, val amount: Int) : Requirement()
 
+
 }

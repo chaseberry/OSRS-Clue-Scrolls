@@ -2,7 +2,7 @@ group 'edu.csh.chase.osrs'
 version '0.0.1'
 
 buildscript {
-    ext.kotlin_version = '1.1.1'
+    ext.kotlin_version = '1.1.4'
 
     repositories {
         mavenCentral()
