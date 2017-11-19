@@ -1,7 +1,7 @@
 package edu.csh.chase.osrs.cluescrolls.solver.models.travel
 
 import edu.csh.chase.osrs.cluescrolls.solver.models.Location
-import edu.csh.chase.osrs.cluescrolls.solver.models.Spells
+import edu.csh.chase.osrs.cluescrolls.solver.models.magic.Spells
 import edu.csh.chase.osrs.cluescrolls.solver.models.items.Item
 import edu.csh.chase.osrs.cluescrolls.solver.models.npcs.Npc
 

@@ -1,5 +1,7 @@
-package edu.csh.chase.osrs.cluescrolls.solver.models
+package edu.csh.chase.osrs.cluescrolls.solver.models.magic
 
+import edu.csh.chase.osrs.cluescrolls.solver.models.Houses
+import edu.csh.chase.osrs.cluescrolls.solver.models.Quest
 import edu.csh.chase.osrs.cluescrolls.solver.models.requirements.Requirement
 
 enum class SpellBooks(val requirement: Requirement?) {
